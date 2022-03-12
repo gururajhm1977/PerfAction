@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Execution is being started...."
+echo "Execution is being started.---..."
 echo "**************************"
 jmeter $@
 echo "**************************"
